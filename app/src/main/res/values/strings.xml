@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">testAndroid</string>
+    <string name="plus">plus</string>
+    <string name="_1">1</string>
+    <string name="minus">minus</string>
+    <string name="create_new_notification">Create new notification</string>
+    <string name="title_notification">You create a notification</string>
+    <string name="text_notification">Notification</string>
+    <string name="swipe_left_error">It\'s last page!</string>
+    <string name="swipe_right_error">It\'s first page!</string>
+</resources>

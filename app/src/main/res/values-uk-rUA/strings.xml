@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">testAndroid</string>
+    <string name="plus">плюс</string>
+    <string name="_1">1</string>
+    <string name="minus">мінус</string>
+    <string name="create_new_notification">Створити нове сповіщення</string>
+    <string name="title_notification">Ви створили сповіщення</string>
+    <string name="text_notification">Сповіщення</string>
+    <string name="swipe_left_error">Це остання сторінка!</string>
+    <string name="swipe_right_error">Це перша сторінка!</string>
+</resources>
